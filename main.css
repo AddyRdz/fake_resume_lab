@@ -6,7 +6,7 @@ h1 {
 }
 h3 {
     text-align: center;
-    color:blue;
+    color:black;
     font-weight: bold;
     
 }
@@ -15,4 +15,19 @@ body {
     font-weight: bold;
     padding: 5%;
     margin: 2%;
+    color: black;
+    background-color: rgb(153, 114, 114);
+}
+nav {
+    display: grid;
+}
+h2 {
+    font-weight: bold;
+    
+}
+li{
+    list-style: none;
+}
+table {
+    border: 12px blanchedalmond;
 }
